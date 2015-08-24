@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"H",
+				"HandleKinectVideoCameraDataReceived"
+			],
+			[
+				"Handl",
+				"HandleKinectDepthCameraDataReceived"
+			],
+			[
+				"mouse",
+				"mousePosition"
+			],
+			[
+				"GetMouse",
+				"GetMouseButtonDown"
+			],
+			[
+				"cente",
+				"centerOffset"
+			],
+			[
+				"vect",
+				"Vector3"
+			],
+			[
+				"objec",
+				"objectReferenceValue"
+			],
+			[
+				"Serializ",
+				"SerializedObjects"
+			],
+			[
+				"V",
+				"Vector3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/packages/rho/RhoWarp.cs",
+			"settings":
+			{
+				"buffer_size": 868,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dainsaint/Documents/work/projects/rho/Rho Accelerated/Assets/Kvant/Swarm/Swarm.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/Test.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/Accelerometer.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/KinectNative.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/DepthCamera.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/Kinect.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/VideoFrameMode.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/Enumerations.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/DepthFrameMode.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/VideoCamera.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/ImageMap.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/FrameMode.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/Standard Assets/Scripts/Utility Scripts/MeshCombineUtility.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/ZigFu/Scripts/Viewers/ZigDepthmapToParticles.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/lib/BaseCamera.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/Standard Assets/Windows/Kinect/KinectSensor.cs",
+		"/Users/dainsaint/Documents/work/projects/duet-show/DuetShow/Assets/KinectView/Scripts/DepthSourceManager.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/game/Board.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/game/players/display/PlayerDisplaySegment.cs",
+		"/Users/dainsaint/Documents/work/projects/exquisitecorpse/ExquisiteCorpseJam/Assets/Scripts/Ball.cs",
+		"/Users/dainsaint/Documents/work/projects/exquisitecorpse/ExquisiteCorpseJam/Assets/Scripts/Player.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/game/players/display/PlayerDisplay.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/game/players/Players.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/application/states/LobbyStateLoop.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/game/GameplayHandler.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/game/utils/TouchInput.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/application/states/PlayStateLoop.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/packages/designer/shapes/Circle.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/game/wedge/Wedge.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/project/game/players/display/WedgeJoint.cs",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/Game.unity",
+		"/Users/dainsaint/Documents/work/projects/finger-room/Finger Room/Assets/Game.unity.meta",
+		"/Users/dainsaint/Documents/work/projects/finger-room/finger-room.sublime-project",
+		"/Users/dainsaint/Documents/work/projects/auditorium-duet/project/Auditorium Duet/duet_project.sublime-project",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/shapes/Shape.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/data/SerializedObjects.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/tools/TransformEditor.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/shapes/ShapeEditor.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/windows/ShapePropertyWindow.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/windows/StyleWindow.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/shapes/Square.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/helpers/Drawer.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/data/ShapeIcons.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/data/SerializedShape.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/rendering/shaders/BasicFlat.shader",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/rendering/ShapeMaterial.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/rendering/ShapeFill.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/rendering/shaders/BasicDiffuse.shader",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/tools/ReflectEditor.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/shapes/ShapeToolbar.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/editor/tools/CameraEditor.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/shapes/Circle.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/DDH Tool/Assets/shapes/helpers/Face.cs",
+		"/Users/dainsaint/Documents/work/projects/ddhtool/shapes.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"GetTriangleStrip",
+			"</span>",
+			"WedgeJoint",
+			"previousJoint",
+			"WedgeJoint",
+			"Wedge",
+			"wedge",
+			"LoseLife",
+			"Wedge",
+			"wedge",
+			"playerDisplay",
+			"Wedge",
+			"wedge",
+			"x",
+			"continue",
+			"bounds",
+			"objs",
+			"animationCurveValue",
+			"vector4Value",
+			"name",
+			"Name",
+			"name",
+			"EditorGUILayout.End",
+			"b.",
+			"shapes",
+			"ResetMaterial",
+			"combinedProps",
+			"GUI_Properties_General",
+			"_GetReferences",
+			"get"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"PlayerDisplaySegment",
+			"PlayerDisplay",
+			"playerDisplay",
+			"PlayerDisplay",
+			"playerDisplay",
+			"display",
+			"PlayerDisplay",
+			"playerDisplay"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/packages/rho/RhoWarp.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rho-accelerated.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"game",
+				"project/game/GameplayHandler.cs"
+			],
+			[
+				"lob",
+				"project/application/states/LobbyStateLoop.cs"
+			],
+			[
+				"play",
+				"project/application/states/PlayStateLoop.cs"
+			],
+			[
+				"wed",
+				"project/game/wedge/Wedge.cs"
+			],
+			[
+				"touchi",
+				"project/game/utils/TouchInput.cs"
+			],
+			[
+				"shape",
+				"shapes/shapes/Shape.cs"
+			],
+			[
+				"prop",
+				"shapes/editor/windows/ShapePropertyWindow.cs"
+			],
+			[
+				"trans",
+				"shapes/editor/tools/TransformEditor.cs"
+			],
+			[
+				"drawer",
+				"shapes/helpers/Drawer.cs"
+			],
+			[
+				"square",
+				"shapes/shapes/Square.cs"
+			],
+			[
+				"shapeedi",
+				"shapes/editor/shapes/ShapeEditor.cs"
+			],
+			[
+				"tra",
+				"shapes/editor/tools/TransformEditor.cs"
+			],
+			[
+				"icons",
+				"shapes/editor/data/ShapeIcons.cs"
+			],
+			[
+				"style",
+				"shapes/editor/windows/StyleWindow.cs"
+			],
+			[
+				"prope",
+				"shapes/editor/windows/ShapePropertyWindow.cs"
+			],
+			[
+				"serial",
+				"shapes/editor/data/SerializedObjects.cs"
+			],
+			[
+				"seriali",
+				"shapes/editor/data/SerializedShape.cs"
+			],
+			[
+				"fl",
+				"rendering/shaders/BasicFlat.shader"
+			],
+			[
+				"bas",
+				"rendering/shaders/BasicFlat.shader"
+			],
+			[
+				"sha",
+				"shapes/shapes/Shape.cs"
+			],
+			[
+				"stylew",
+				"shapes/editor/windows/StyleWindow.cs"
+			],
+			[
+				"camer",
+				"shapes/editor/tools/CameraEditor.cs"
+			],
+			[
+				"toob",
+				"shapes/editor/shapes/ShapeToolbar.cs"
+			],
+			[
+				"tran",
+				"shapes/editor/tools/TransformEditor.cs"
+			],
+			[
+				"shapeed",
+				"shapes/editor/shapes/ShapeEditor.cs"
+			],
+			[
+				"dif",
+				"rendering/shaders/BasicDiffuse.shader"
+			],
+			[
+				"basic",
+				"rendering/shaders/BasicFlat.shader"
+			],
+			[
+				"serialsh",
+				"shapes/editor/data/SerializedShape.cs"
+			],
+			[
+				"shapema",
+				"shapes/rendering/ShapeMaterial.cs"
+			],
+			[
+				"shapefil",
+				"shapes/rendering/ShapeFill.cs"
+			],
+			[
+				"face",
+				"shapes/helpers/Face.cs"
+			],
+			[
+				"cir",
+				"shapes/shapes/Circle.cs"
+			],
+			[
+				"ref",
+				"shapes/editor/tools/ReflectEditor.cs"
+			],
+			[
+				"window",
+				"shapes/editor/windows/ShapePropertyWindow.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

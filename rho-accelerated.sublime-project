@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"file_include_patterns":
+			[
+				"*.cs", "*.js", "*.txt", "*.shader"
+			]
+		}
+	]
+}
