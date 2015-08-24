@@ -105,7 +105,7 @@ Shader "Rho/Surface"
 
             o.Albedo = float4(1,1,1,1);
             o.Alpha = color.a;
-            o.Emission = pow( color.rgb , 2.2 )* exp(_EmissionGain * 5.0f);
+            o.Emission = pow( color.rgb * exp(_EmissionGain * 5.0f), 2.2 ) ;
         }
 
         ENDCG
@@ -126,7 +126,7 @@ Shader "Rho/Surface"
             
             o.Albedo = float4(1,1,1,1);
             o.Alpha = color.a;
-            o.Emission = pow( color.rgb , 2.2 )* exp(_EmissionGain * 5.0f);
+            o.Emission = pow( color.rgb * exp(_EmissionGain * 5.0f), 2.2 ) ;
         }
 
         ENDCG

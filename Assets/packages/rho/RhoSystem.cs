@@ -67,6 +67,9 @@ public class RhoSystem : MonoBehaviour
 
 	#region Resource Management
 
+	[Header("Debug Settings")]
+	public bool showDebug = false;
+
 	public void NotifyConfigChange()
 	{
 		_needsReset = true;
@@ -287,7 +290,7 @@ public class RhoSystem : MonoBehaviour
 
 	void OnGUI()
 	{
-		if( buffer != null	 )
+		if( buffer != null && showDebug )
 			buffer.DebugGUI();
 	}
 
